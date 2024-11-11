@@ -1,0 +1,29 @@
+<a href="#" class="container__link">
+  <img src="img/Compras.svg" alt="Carrinhos de compras" class="container__imagem" />
+@media screen and (_____-width: ________) {
+    .___________________ {
+        display: _________;
+        align-items: center;
+        color: var(--preto);
+    }<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+
+    </body>
+</html>
+<p class="container__texto">Minha sacola</p>
+</a>
+.container__botao {
+    display: none;
+}
+
+.opções {
+    display: none;
+}
+<a href="#" class="container__link">
+  <img src="img/Usuario.svg" alt="Meu perfil" class="container__imagem" />
+  <p class="container__texto">Meu perfil</p>
+</a>
